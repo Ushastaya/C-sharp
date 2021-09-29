@@ -1,0 +1,7 @@
+D:\Other\Lessons\Homework 5\Homework 5\bin\Debug\Homework 5.exe.config
+D:\Other\Lessons\Homework 5\Homework 5\bin\Debug\Homework 5.exe
+D:\Other\Lessons\Homework 5\Homework 5\bin\Debug\Homework 5.pdb
+D:\Other\Lessons\Homework 5\Homework 5\obj\Debug\Homework 5.csproj.AssemblyReference.cache
+D:\Other\Lessons\Homework 5\Homework 5\obj\Debug\Homework 5.csproj.CoreCompileInputs.cache
+D:\Other\Lessons\Homework 5\Homework 5\obj\Debug\Homework 5.exe
+D:\Other\Lessons\Homework 5\Homework 5\obj\Debug\Homework 5.pdb
